@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# ATM-PROJECT
+A C# Program that imitates an ATM.
+Using system threading.
+Enter account balance and you can either Deposit or Withdraw.
 
-You can use the [editor on GitHub](https://github.com/LearAdini/ATM-PROJECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To open the ATM project go to BankATM\BankATM\bin\Debug and then BankATM.exe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you can view and edit the code to your liking.
 
-### Markdown
+![atm deposit](https://user-images.githubusercontent.com/80118008/125926185-b7781e30-147d-45a6-a7d5-ac66bb13244b.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![withdraw](https://user-images.githubusercontent.com/80118008/125926198-0fb66f28-8da9-48ab-b006-75d7e28b825a.PNG)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearAdini/ATM-PROJECT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![atm not enough](https://user-images.githubusercontent.com/80118008/125926214-ff592f6e-8084-4c18-82a9-ae95cd96eacd.PNG)
